@@ -14,14 +14,8 @@ O projeto demonstra o uso avançado de gerenciamento de estado, injeção de dep
 ## 📱 Screenshots
 
 | Home (Lista) | Detalhes | Favoritos |
-
-|:---:|:---:|:---:|:---:|
-
-| | | | |
-
-| ![Home](assets/home.png) | ![Details](assets/details.png) | ![Favs](assets/favorite.png) |
-
-
+|:---:|:---:|:---:|
+| <img src="assets/home.png" width="250"> | <img src="assets/details.png" width="250"> | <img src="assets/favorite.png" width="250"> |
 
 
 
