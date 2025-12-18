@@ -82,7 +82,7 @@ lib/
 
 Clone o repositório
 ```bash
-    git clone https://github.com/seu-usuario/pokedex-flutter.git
+    git clone https://github.com/shenioalves/pokedex-flutter.git
     cd pokedex-flutter
 ```
 ### Instale as dependências
