@@ -77,8 +77,8 @@ lib/
 
 - **equatable**: Comparação de objetos para otimizar rebuilds.
 ---
----
-##⚡ Como rodar o projeto
+
+## ⚡ Como rodar o projeto
 
 Clone o repositório
 ```bash
@@ -96,13 +96,13 @@ flutter run
 ---
 ## 🚧 Roadmap (Próximos Passos)
 
-    - [ ] Implementar Testes Unitários e de Widget (Bloc Test).
+- [ ] Implementar Testes Unitários e de Widget (Bloc Test).
 
-    - [ ] Adicionar suporte a Dark Mode.
+- [ ] Adicionar suporte a Dark Mode.
 
-    - [ ] Criar gráfico de estatísticas (Radar Chart) na tela de detalhes.
+- [ ] Criar gráfico de estatísticas (Radar Chart) na tela de detalhes.
 
-    - [ ] Adicionar filtros avançados (Peso, Altura).
+- [ ] Adicionar filtros avançados (Peso, Altura).
 
 ## 👨‍💻 Autor
 
