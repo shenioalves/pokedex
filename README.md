@@ -79,31 +79,28 @@ lib/
 
 ##⚡ Como rodar o projeto
 
-    Clone o repositório
-
+Clone o repositório
 ```bash
 git clone [https://github.com/seu-usuario/pokedex-flutter.git](https://github.com/seu-usuario/pokedex-flutter.git)
 cd pokedex-flutter
-
-Instale as dependências
+```
+### Instale as dependências
 ```bash
-
 flutter pub get
-
-Execute o aplicativo
+```
+### Execute o aplicativo
 ```bash
+flutter run
+```
+## 🚧 Roadmap (Próximos Passos)
 
-    flutter run
+    - [ ] Implementar Testes Unitários e de Widget (Bloc Test).
 
-🚧 Roadmap (Próximos Passos)
+    - [ ] Adicionar suporte a Dark Mode.
 
-    [ ] Implementar Testes Unitários e de Widget (Bloc Test).
+    - [ ] Criar gráfico de estatísticas (Radar Chart) na tela de detalhes.
 
-    [ ] Adicionar suporte a Dark Mode.
-
-    [ ] Criar gráfico de estatísticas (Radar Chart) na tela de detalhes.
-
-    [ ] Adicionar filtros avançados (Peso, Altura).
+    - [ ] Adicionar filtros avançados (Peso, Altura).
 
 ## 👨‍💻 Autor
 
